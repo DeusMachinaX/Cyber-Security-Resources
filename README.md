@@ -1,4 +1,4 @@
 # Cyber-Security-Resources
 Cyber Security Ebooks
 .
-Literatur und Cheat Sheets for Pentesting
+Literature und Cheat Sheets for Pentesting
